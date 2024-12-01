@@ -1,0 +1,73 @@
+{
+    "conversation": [
+      {
+        "id": 1,
+        "response": {
+          "type": "combo",
+          "content": {
+            "types": ["line", "gesture"],
+            "contents": ["Hi, Good Morning!", "Big Smile"]
+          }
+        }
+      },
+      {
+        "id": 2,
+        "response": {
+          "type": "line",
+          "content": "Sure! What about Curry with Rice? You can incorporate a million variations of it, right? Or Garlic Naan?"
+        }
+      },
+      {
+        "id": 3,
+        "response": {
+          "type": "combo",
+          "content": {
+            "types": ["line", "gesture", "line"],
+            "contents": ["Oh, I see.", "Express Oh", "Did I get something wrong?"]
+          }
+        }
+      },
+      {
+        "id": 4,
+        "response": {
+          "type": "line",
+          "content": "Interesting, I never knew that! Can you tell me more about your cuisine's diversity in detail?"
+        }
+      },
+      {
+        "id": 5,
+        "response": {
+          "type": "line",
+          "content": "That sounds like a whole lot of foods and cooking methods!"
+        }
+      },
+      {
+        "id": 6,
+        "response": {
+          "type": "combo",
+          "content": {
+            "types": ["gesture", "line"],
+            "contents": ["Nod", "That's… a lot of Biriyanis for sure!"]
+          }
+        }
+      },
+      {
+        "id": 7,
+        "response": {
+          "type": ["line", "gesture", "line"],
+          "content": ["Wow!", "Shock", "Okay, so moral of the story - Indian cuisine is not just Butter Chicken and Curry and Naan. There are just too many varieties to generalize Indian Cuisine as a single family of dishes."]
+        }
+      },
+      {
+        "id": 8,
+        "response": {
+          "type": "combo",
+          "content": {
+            "types": ["line", "gesture"],
+            "contents": ["Well, I am just a virtual agent, but I wish you Bon Appétit!", "Smile"]
+          }
+        }
+      }
+    ]
+  }
+  
