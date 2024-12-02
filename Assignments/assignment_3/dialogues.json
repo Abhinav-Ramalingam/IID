@@ -6,7 +6,7 @@
           "type": "combo",
           "content": {
             "types": ["line", "gesture"],
-            "contents": ["Hi, Good Morning!", "Big Smile"]
+            "contents": ["Hi, Good Morning!", "BigSmile"]
           }
         }
       },
@@ -23,7 +23,7 @@
           "type": "combo",
           "content": {
             "types": ["line", "gesture", "line"],
-            "contents": ["Oh, I see.", "Express Oh", "Did I get something wrong?"]
+            "contents": ["Oh, I see.", "Nod", "Did I get something wrong?"]
           }
         }
       },
@@ -54,8 +54,11 @@
       {
         "id": 7,
         "response": {
-          "type": ["line", "gesture", "line"],
-          "content": ["Wow!", "Shock", "Okay, so moral of the story - Indian cuisine is not just Butter Chicken and Curry and Naan. There are just too many varieties to generalize Indian Cuisine as a single family of dishes."]
+          "type": "combo",
+          "content": {
+            "types": ["line", "gesture", "line"],
+            "contents": ["Wow!", "BrowRaise", "Okay, so moral of the story : Indian cuisine is not just Butter Chicken and Curry and Naan. There are just too many varieties to generalize Indian Cuisine as a single family of dishes."]
+          }
         }
       },
       {
@@ -64,7 +67,7 @@
           "type": "combo",
           "content": {
             "types": ["line", "gesture"],
-            "contents": ["Well, I am just a virtual agent, but I wish you Bon Appétit!", "Smile"]
+            "contents": ["Well, I am just a virtual agent, but I wish you Bon Appétit!", "blink"]
           }
         }
       }
